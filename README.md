@@ -7,3 +7,5 @@ ___
  * [Agence de voyage](./agence_n4.md)
  * [Optimisation du site firebnb](./firebnb_n5.md)
  * [House of Cards](./housseofcards_n6.md)
+ * [BMW/AUDI](./bmw&audi_n7.md)
+ * [fitness](./fitness_n8.md)
